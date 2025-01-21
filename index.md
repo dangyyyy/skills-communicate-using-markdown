@@ -4,3 +4,7 @@ A h1 header has been added to explore working with github
 ``` javascript
 var myVar = "Hello, friends!";
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
